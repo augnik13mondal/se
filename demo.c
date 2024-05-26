@@ -2,6 +2,7 @@
 {
     int main()
 int a=6;
+int b=6;  
 int *ptr;
 ptr=&a;
 *ptr=*ptr*5;
